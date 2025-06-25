@@ -1,0 +1,9 @@
+flask
+flask-pymongo
+flask-jwt-extended
+python-dotenv
+bcrypt
+cryptography
+itsdangerous
+python-multipart
+pytest
